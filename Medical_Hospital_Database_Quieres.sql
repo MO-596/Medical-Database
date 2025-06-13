@@ -1,4 +1,3 @@
---SQL> @C:\Users\melvi\SQL_Projects\Medical_Hospital\Medical_Hospital_Database_Quieres.txt
 
 --1)Queries that shows all tables for testing
 /*

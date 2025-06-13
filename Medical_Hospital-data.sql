@@ -1,4 +1,3 @@
---@C:\Users\melvi\SQL_Projects\Medical_Hospital\Medical_Hospital-data.sql
 
 --H_DEPARTMENTS(DEPT_NAME, DEPT_CODE, DEPT_WING, DEPT_MGR) 
 

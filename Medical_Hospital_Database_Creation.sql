@@ -1,4 +1,3 @@
---SQL> @C:\Users\melvi\SQL_Projects\Medical_Hospital\Medical_Hospital_Database_Creation.txt
 
 --//////////////////////////////////////////////////////////////
 --Loading Medical Hospital Database Tables:

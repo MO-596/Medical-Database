@@ -1,4 +1,4 @@
---SQL> @C:\Users\melvi\SQL_Projects\Medical_Hospital\Medical_Hospital_Database_Deletion.txt
+
 
 DROP TABLE H_STAFF CASCADE CONSTRAINTS;
 DROP SEQUENCE SEQ_WORKER_NUM;
